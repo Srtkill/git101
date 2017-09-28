@@ -1,2 +1,2 @@
 # git101
-Sample git repo
+Sample git repo "This is README"
